@@ -115,10 +115,10 @@ By using this tool, you acknowledge that you are solely responsible for any acti
 DHT-HACKERS Team: The development and maintenance of DHT-PHISHER.
 
 YouTube Channel: For more tutorials, ethical hacking guides, and updates, visit our YouTube channel:
-DHT-HACKERS YouTube Channel
+DHT-HACKERS YouTube Channel (https://www.youtube.com/@DHT-HACKERS_10)
 
 Community: Join our community for discussions, tips, and resources on ethical hacking:
-DHT-HACKERS Community (Replace with actual link)
+DHT-HACKERS Community (https://chat.whatsapp.com/G2hCkCzylra2OENEfhH8Os)
 
 # Greetings 🤗 🤗 
 Thank you to the open-source community and everyone who supports our work!
