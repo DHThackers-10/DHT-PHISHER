@@ -77,7 +77,7 @@ cloudflared tunnel --url http://localhost:<port>
 ```
 5. Wait for credentials: The tool will display any captured credentials (username, password, and additional information). Press CTRL+C to stop the tool.
 
-
+!https://github.com/DHThackers-10/DHT-PHISHER/blob/main/IMG-20250409-WA0054.jpg
 
 # Supported Platforms 🖥️
 
