@@ -4,35 +4,35 @@ Welcome to DHT-PHISHER, a powerful phishing tool designed for educational and et
 
 # Table of Contents 📑
 
-Features
+•Features
 
-Installation
+•Installation
 
-Usage
+•Usage
 
-Supported Platforms
+•Supported Platforms
 
-Disclaimer
+•Disclaimer
 
-Credits
+•Credits
 
 
 # Features ⏩
 
-Multi-platform support: Phishing pages for major platforms like Gmail, Facebook, Instagram, Twitter, Netflix, and more.
+•Multi-platform support: Phishing pages for major platforms like Gmail, Facebook, Instagram, Twitter, Netflix, and more.
 
-Realistic design: Each phishing page has a clean, modern design to closely resemble the official login forms.
+•Realistic design: Each phishing page has a clean, modern design to closely resemble the official login forms.
 
-Real-time credential logging: Captures username, password, and additional data (e.g., extra fields like Diamond Amount) in real-time.
+•Real-time credential logging: Captures username, password, and additional data (e.g., extra fields like Diamond Amount) in real-time.
 
-Easy setup: The tool is easy to set up with minimal configuration. It runs on Flask and supports Cloudflare tunneling.
+•Easy setup: The tool is easy to set up with minimal configuration. It runs on Flask and supports Cloudflare tunneling.
 
-Educational: Great for learning about web security and phishing techniques.
+•Educational: Great for learning about web security and phishing techniques.
 
 
 # Installation ⛏️
 
-Prerequisites:
+∆ Prerequisites:
 
 Make sure you have the following installed on your machine:
 
@@ -41,7 +41,7 @@ Python 3.x (recommended version: 3.6 or higher)
 pip (Python's package manager)
 
 
-Install Required Dependencies
+| Install Required Dependencies
 
 ```
 apt update && apt upgrade
@@ -83,25 +83,25 @@ cloudflared tunnel --url http://localhost:<port>
 
 Here are the platforms you can target with DHT-PHISHER:
 
-Gmail
+•Gmail
 
-Free Fire - Diamonds
+•Free Fire - Diamonds
 
-BGMI - Free UC
+•BGMI - Free UC
 
-Netflix
+•Netflix
 
-Twitter
+•Twitter
 
-Facebook
+•Facebook
 
-Instagram
+•Instagram
 
-Discord
+•Discord
 
-Snapchat
+•Snapchat
 
-Pinterest
+•Pinterest
 
 
 Each platform has a unique login page with appropriate logos and placeholders.
@@ -114,12 +114,12 @@ By using this tool, you acknowledge that you are solely responsible for any acti
 
 # Credits 💳
 
-DHT-HACKERS Team: The development and maintenance of DHT-PHISHER.
+•DHT-HACKERS Team: The development and maintenance of DHT-PHISHER.
 
-YouTube Channel: For more tutorials, ethical hacking guides, and updates, visit our YouTube channel:
+•YouTube Channel: For more tutorials, ethical hacking guides, and updates, visit our YouTube channel:
 DHT-HACKERS YouTube Channel (https://www.youtube.com/@DHT-HACKERS_10)
 
-Community: Join our community for discussions, tips, and resources on ethical hacking:
+•Community: Join our community for discussions, tips, and resources on ethical hacking:
 DHT-HACKERS Community (https://chat.whatsapp.com/G2hCkCzylra2OENEfhH8Os)
 
 # Greetings 🤗 🤗 
