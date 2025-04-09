@@ -48,6 +48,8 @@ apt update && apt upgrade
 
 apt install git python python3
 
+pkg install cloudflared
+
 pip install flask pyfiglet
 
 git clone https://github.com/DHThackers-10/DHT-PHISHER
